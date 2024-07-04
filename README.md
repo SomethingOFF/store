@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Named "Store" is Dashboard for managing the products(working in progress).i created store application in such way user(as admin) can create many store based on requirement and as well as user(as admin) can mangage to update delete them. user(as admin) can handle the delivery and managing thr products after checkouts by customers(in panding state).
 
 ## Getting Started
 
